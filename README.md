@@ -22,6 +22,7 @@ Intelligent-IT-Ticket-Auto-Resolution-System/
 │
 ├── app.py # Streamlit web application
 ├── requirements.txt # Python dependencies
+|--- input.text
 ├── saved_models/ # Trained models
 │ ├── category_model.pkl
 │ ├── tfidf_vectorizer.pkl
