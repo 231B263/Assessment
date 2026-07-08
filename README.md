@@ -1,5 +1,23 @@
 # Assessment
 
+Q1.
+Enterprise-Server-Failure-Prediction/
+│
+├── app.py # Streamlit web application
+├── requirements.txt # Python dependencies
+├── rf_model.pkl # Trained Random Forest model
+├── feature_columns.pkl # Feature columns for model
+├── sample_input.csv # Sample input data
+└── model-train.ipynb # Validation notebook
+
+How to run 
+-- run app.py on pytharm 
+-- but make sure the files must be save as i mentioned in the structure and requirements.
+-- then give input sample which is given as sample_input.csv
+
+
+
+Q2.
 Intelligent-IT-Ticket-Auto-Resolution-System/
 │
 ├── app.py # Streamlit web application
@@ -15,22 +33,4 @@ Intelligent-IT-Ticket-Auto-Resolution-System/
 How to run 
 -- run app.py on pytharm 
 -- but make sure the files must be save as i mentioned in the structure and requirements.
-
-
-
-
-
-Enterprise-Server-Failure-Prediction/
-│
-├── app.py # Streamlit web application
-├── requirements.txt # Python dependencies
-├── rf_model.pkl # Trained Random Forest model
-├── feature_columns.pkl # Feature columns for model
-├── sample_input.csv # Sample input data
-└── model-train.ipynb # Validation notebook
-
-How to run 
--- run app.py on pytharm 
--- but make sure the files must be save as i mentioned in the structure and requirements.
-
-
+-- give input which is given as input
