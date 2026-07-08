@@ -1,0 +1,23 @@
+Subject: VPN not connecting after password reset
+Description: After resetting my password, VPN is not connecting and shows authentication failed. I need to access office systems urgently.
+
+
+
+
+Subject: Outlook keeps asking for password
+Description: Outlook keeps asking for password every few minutes. Even after entering the password, the login popup appears again. My mailbox is not syncing.
+
+
+
+
+
+
+
+Subject: Outlook keeps asking for password
+Description: Outlook keeps asking for password every few minutes. Even after entering the password, the login popup appears again. My mailbox is not syncing.
+
+
+
+
+Subject: Laptop not turning on
+Description: My laptop does not turn on even after pressing power button. System shows black screen and does not boot.
